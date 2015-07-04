@@ -371,7 +371,7 @@
 			<Item Name="channel 21" />
 			<Item Name="Channel 21 (ALT)" />
 			<Item Name="Channel 21 ALT" />
-			<File>channel21.png</File>
+			<File>Channel 21.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="classica" />
@@ -392,7 +392,10 @@
 		<Channel>
 			<Item Name="Comedy Central/VIVA" />
 			<Item Name="Comedy Central/VIVA AT" />
-			<File>ComedyCentral VIVA.png</File>
+			<Item Name="VIVA/COMEDY CENTRAL">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>ComedyCentral_VIVA.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Comedy Central/VIVA HD" />
@@ -400,7 +403,10 @@
 			<Item Name="COMEDY CENTRAL HD/VIVA HD">
 				<Provider>KDG</Provider>
 			</Item>
-			<File>ComedyCentral VIVA HD.png</File>
+			<Item Name="VIVA/COMEDY CENTRAL HD">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>ComedyCentral_VIVA HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="DFB Konferenz" />
@@ -414,7 +420,7 @@
 		<Channel>
 			<Item Name="dmaxhd" />
 			<Item Name="DMAX HD" />
-			<File>dmaxhd.png</File>
+			<File>DMAX HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="DSF" />
@@ -456,6 +462,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Deluxe Music HD" />
+			<Item Name="Deluxe Music HD Austria" />
 			<File>Deluxe Music HD.png</File>
 		</Channel>
 		<Channel>
@@ -925,26 +932,36 @@
 		</Channel>
 		<Channel>
 			<Item Name="Kabel 1 Austria" />
-			<File>Kabel 1 Austria.png</File>
+			<File>Austria/kabel 1 Austria.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Kabel 1 Schweiz" />
 			<File>Kabel 1 Schweiz.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="kabel eins" />
+			<Item Name="kabel 1">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>kabel 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="kabel eins HD" />
+			<Item Name="kabel 1 HD">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>kabel 1 HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="kabel eins classics" />
 			<Item Name="Kabel Eins Classic">
 				<Provider>KabelBW</Provider>
 			</Item>
-			<File>kabel eins classics.png</File>
+			<File>kabel 1 classics.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="kabel eins" />
-			<File>kabel eins.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="kabel eins HD" />
-			<File>kabel eins HD.png</File>
+			<Item Name="kabel eins classics HD" />
+			<File>kabel 1 classics HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Kabel Digital Info" />
@@ -1165,12 +1182,12 @@
 			<File>n-tv HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="n24 hd" />
-			<File>n24 hd.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="N24" />
 			<File>N24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="n24 hd" />
+			<File>N24 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NASN" />
@@ -1468,11 +1485,6 @@
 			<File>Parlamentsfernsehen.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Passion" />
-			<Item Name="RTL Passion" />
-			<File>Passion.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="pearl.tv">
 				<Provider>KabelBW</Provider>
 			</Item>
@@ -1543,7 +1555,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="ProSieben Austria" />
-			<File>ProSieben Austria.png</File>
+			<File>Austria/Pro7 Austria.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ProSieben Schweiz" />
@@ -1705,11 +1717,11 @@
 			<Item Name="RTL Regional NRW" />
 			<Item Name="RTL FS" />
 			<Item Name="RTL München" />
-			<File>RTL Television.png</File>
+			<File>RTL.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTL Austria" />
-			<File>RTL Austria.png</File>
+			<File>Austria/RTL Austria.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTL Crime"/>
@@ -1737,17 +1749,18 @@
 			<File>RTL Living.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RTL Living HD" />
+			<File>RTL Living HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="RTL Schweiz" />
 			<Item Name="RTL CH" />
 			<File>RTL Schweiz.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL Shop" />
-			<File>RTL Shop.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="RTL Living HD" />
-			<File>RTL Living HD.png</File>
+			<Item Name="RTL Passion" />
+			<Item Name="Passion" />
+			<File>RTL Passion.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTL Passion HD" />
@@ -1757,8 +1770,10 @@
 			<File>RTL Passion HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL2 Austria" />
-			<File>RTL2 Austria.png</File>
+			<Item Name="RTL2" />
+			<Item Name="RTL II" />
+			<Item Name="RTLII-gold" />
+			<File>RTL II.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTL2 HD" />
@@ -1766,27 +1781,25 @@
 			<Item Name="RTL II HD">
 				<Provider>KDG</Provider>
 			</Item>
-			<File>RTL2 HD.png</File>
+			<File>RTL II HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL2 Austria" />
+			<File>Austria/RTL II Austria.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTL2 Schweiz" />
 			<File>RTL2 Schweiz.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL2" />
-			<Item Name="RTL II" />
-			<Item Name="RTLII-gold" />
-			<File>RTL2.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="RTL NITRO" />
 			<Item Name="RTL NITRO A" />
 			<Item Name="RTLNITRO" />
-			<File>RTLNITRO.png</File>
+			<File>RTL NITRO.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTL NITRO HD" />
-			<File>RTL Nitro HD.png</File>
+			<File>RTL NITRO HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTR Planeta (rus)" />
@@ -1833,20 +1846,25 @@
 		<Channel>
 			<Item Name="Sat.1 HD" />
 			<Item Name="SAT.1 HD2" />
-			<File>SAT.1 HD.png</File>
+			<File>Sat.1 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SAT.1 emotions" />
-			<File>SAT.1 emotions.png</File>
+			<File>Sat.1 Emotions.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sat.1 Comedy" />
-			<File>Sat.1 Comedy.png</File>
+			<Item Name="SAT.1 emotions HD" />
+			<File>Sat.1 Emotions HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SAT.1 Gold" />
 			<Item Name="SAT.1 Gold Österreich" />
-			<File>SAT.1 Gold.png</File>
+			<File>Sat.1 Gold.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SAT.1 Gold HD" />
+			<Item Name="SAT.1 Gold HD Österreich" />
+			<File>Sat.1 Gold HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SciFi" />
@@ -1917,7 +1935,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="SIXX HD" />
-			<File>SIXX HD.png</File>
+			<File>sixx HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Atlantic" />
@@ -2375,11 +2393,11 @@
 		</Channel>
 		<Channel>
 			<Item Name="TELE 5" />
-			<File>TELE 5.png</File>
+			<File>Tele 5.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="tele 5 hd" />
-			<File>tele 5 hd.png</File>
+			<File>Tele 5 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TeleM1" />
@@ -2602,7 +2620,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="VOX Austria" />
-			<File>VOX Austria.png</File>
+			<File>Austria/VOX Austria.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="VOX CH" />
