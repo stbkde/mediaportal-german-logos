@@ -375,7 +375,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="classica" />
-			<File>classica.png</File>
+			<File>Classica.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Classica HD" />
@@ -396,6 +396,10 @@
 				<Provider>KabelBW</Provider>
 			</Item>
 			<File>ComedyCentral_VIVA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Comedy Central/VIVA AT" />
+			<File>Austria/ComedyCentral_VIVA Austria.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Comedy Central/VIVA HD" />
@@ -421,6 +425,14 @@
 			<Item Name="dmaxhd" />
 			<Item Name="DMAX HD" />
 			<File>DMAX HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DMAX Austria" />
+			<File>Austria/DMAX Austria.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DMAX HD Austria" />
+			<File>Austria/DMAX HD Austria.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="DSF" />
@@ -935,6 +947,10 @@
 			<File>Austria/kabel 1 Austria.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Kabel 1 HD Austria" />
+			<File>Austria/kabel 1 HD Austria.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Kabel 1 Schweiz" />
 			<File>Kabel 1 Schweiz.png</File>
 		</Channel>
@@ -1110,10 +1126,6 @@
 			<File>Motorvision TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="MTV Austria" />
-			<File>MTV Austria.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="MTV Brand New" />
 			<File>MTV Brand New.png</File>
 		</Channel>
@@ -1142,6 +1154,7 @@
 			<Item Name="MTV" />
 			<Item Name="MTV Germany" />
 			<Item Name="MTV Music 24" />
+			<Item Name="MTV Austria" />
 			<File>MTV.png</File>
 		</Channel>
 		<Channel>
@@ -1267,14 +1280,6 @@
 			<File>NDR HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="NICK Austria" />
-			<File>NICK Austria.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="NICK Germany" />
-			<File>NICK Germany.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="NICK Jr." />
 			<Item Name="NICK Junior" />
 			<File>Nick Jr.png</File>
@@ -1282,10 +1287,6 @@
 		<Channel>
 			<Item Name="Nick Jr. HD" />
 			<File>Nick Jr HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Nick Premium" />
-			<File>Nick Premium.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="nicktoons" />
@@ -1313,13 +1314,19 @@
 		</Channel>
 		<Channel>
 			<Item Name="Nickelodeon" />
-			<Item Name="NICKELODEON AT" />
 			<File>Nickelodeon.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Nickelodeon HD" />
-			<Item Name="NICKELODEON HD AT" />
 			<File>Nickelodeon HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NICKELODEON AT" />
+			<File>Austria/Nickelodeon Austria.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NICKELODEON HD AT" />
+			<File>Austria/Nickelodeon HD Austria.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NRJ Hits" />
@@ -1558,6 +1565,10 @@
 			<File>Austria/Pro7 Austria.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ProSieben HD Austria" />
+			<File>Austria/Pro7 HD Austria.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="ProSieben Schweiz" />
 			<File>ProSieben Schweiz.png</File>
 		</Channel>
@@ -1580,11 +1591,14 @@
 		</Channel>
 		<Channel>
 			<Item Name="ProSieben Maxx" />
-			<Item Name="Pro7 MAXX Austria" />
 			<Item Name="Pro7 MAXX">
 				<Provider>KabelBW</Provider>
 			</Item>
 			<File>ProSieben Maxx.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pro7 MAXX Austria" />
+			<File>Austria/ProSieben Maxx Austria.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ProSieben Maxx HD" />
@@ -1717,11 +1731,8 @@
 			<Item Name="RTL Regional NRW" />
 			<Item Name="RTL FS" />
 			<Item Name="RTL München" />
-			<File>RTL.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="RTL Austria" />
-			<File>Austria/RTL Austria.png</File>
+			<File>RTL.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTL Crime"/>
@@ -1773,6 +1784,7 @@
 			<Item Name="RTL2" />
 			<Item Name="RTL II" />
 			<Item Name="RTLII-gold" />
+			<Item Name="RTL2 Austria" />
 			<File>RTL II.png</File>
 		</Channel>
 		<Channel>
@@ -1782,10 +1794,6 @@
 				<Provider>KDG</Provider>
 			</Item>
 			<File>RTL II HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="RTL2 Austria" />
-			<File>Austria/RTL II Austria.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTL2 Schweiz" />
@@ -1837,7 +1845,7 @@
 			<Item Name="Sat.1 Austria">
 				<Provider>SalzburgAG</Provider>
 			</Item>
-			<File>SAT.1 A.png</File>
+			<File>Austria/Sat.1 Austria.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SAT.1 CH" />
@@ -1849,6 +1857,10 @@
 			<File>Sat.1 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="SAT.1 HD Austria" />
+			<File>Sat.1 HD Austria.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="SAT.1 emotions" />
 			<File>Sat.1 Emotions.png</File>
 		</Channel>
@@ -1858,8 +1870,11 @@
 		</Channel>
 		<Channel>
 			<Item Name="SAT.1 Gold" />
-			<Item Name="SAT.1 Gold Österreich" />
 			<File>Sat.1 Gold.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SAT.1 Gold Österreich" />
+			<File>Austria/Sat.1 Gold Austria.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SAT.1 Gold HD" />
@@ -1928,10 +1943,13 @@
 			<Item Name="sixx">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<File>sixx.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sixx Austria">
 				<Provider>UPC Tirol</Provider>
 			</Item>
-			<File>sixx.png</File>
+			<File>Austria/sixx Austria.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SIXX HD" />
@@ -2324,18 +2342,15 @@
 			<File>Star TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Super RTL A" />
-			<Item Name="Super RTL Austria">
-				<Provider>SalzburgAG</Provider>
-			</Item>
-			<File>Super RTL A.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Super RTL CH" />
 			<File>Super RTL CH.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Super RTL" />
+			<Item Name="Super RTL A" />
+			<Item Name="Super RTL Austria">
+				<Provider>SalzburgAG</Provider>
+			</Item>
 			<File>Super RTL.png</File>
 		</Channel>
 		<Channel>
@@ -2619,8 +2634,9 @@
 			<File>VIVA HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="VOX" />
 			<Item Name="VOX Austria" />
-			<File>Austria/VOX Austria.png</File>
+			<File>VOX.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="VOX CH" />
@@ -2630,10 +2646,6 @@
 			<Item Name="VOX HD" />
 			<Item Name="VOX HD Austria" />
 			<File>VOX HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="VOX" />
-			<File>VOX.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WDR Aachen" />
