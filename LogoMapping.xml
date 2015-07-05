@@ -1101,6 +1101,12 @@
 			<File>mediasparTV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Metropolregion TV">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>MetropolRegion_TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="mezzo" />
 			<File>mezzo.png</File>
 		</Channel>
