@@ -1796,11 +1796,11 @@
 			<Item Name="RTL NITRO" />
 			<Item Name="RTL NITRO A" />
 			<Item Name="RTLNITRO" />
-			<File>RTL NITRO.png</File>
+			<File>RTL Nitro.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTL NITRO HD" />
-			<File>RTL NITRO HD.png</File>
+			<File>RTL Nitro HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTR Planeta (rus)" />
