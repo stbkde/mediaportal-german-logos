@@ -1246,28 +1246,16 @@
 		<Channel>
 			<Item Name="NDR" />
 			<Item Name="NDR FERNSEHEN" />
+			<Item Name="NDR-Fernsehen" />
 			<Item Name="NDR FS NDS _" />
 			<Item Name="NDR FS NDS" />
-			<File>NDR.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="NDR-Fernsehen" />
-			<File>NDR-Fernsehen.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="NDR FS HH" />
 			<Item Name="NDR FS HH+" />
-			<File>NDR FS HH.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="NDR FS MV" />
 			<Item Name="NDR FS MV+" />
-			<File>NDR FS MV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="NDR FS SH" />
 			<Item Name="NDR FS SH+" />
-			<File>NDR FS SH.png</File>
+			<File>NDR.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NDR HD" />
@@ -2654,42 +2642,20 @@
 			<File>VOX HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="WDR Aachen" />
-			<Item Name="WDR Aachen _" />
-			<File>WDR Aachen.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="WDR Bielefeld" />
-			<File>WDR Bielefeld.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="WDR Bonn" />
-			<File>WDR Bonn.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="WDR Dortmund" />
-			<File>WDR Dortmund.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="WDR Duisburg" />
-			<File>WDR Duisburg.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="WDR Düsseldorf" />
-			<File>WDR Duesseldorf.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="WDR Essen" />
-			<Item Name="WDR Essen _" />
-			<File>WDR Essen.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="WDR Fernsehen" />
-			<File>WDR Fernsehen.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="WDR-Fernsehen" />
-			<File>WDR-Fernsehen.png</File>
+			<Item Name="WDR Aachen" />
+			<Item Name="WDR Bielefeld" />
+			<Item Name="WDR Bonn" />
+			<Item Name="WDR Dortmund" />
+			<Item Name="WDR Duisburg" />
+			<Item Name="WDR Düsseldorf" />
+			<Item Name="WDR Essen" />
+			<Item Name="WDR Köln" />
+			<Item Name="WDR Münster" />
+			<Item Name="WDR Siegen" />
+			<Item Name="WDR Wuppertal" />
+			<File>WDR.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WDR HD" />
@@ -2708,22 +2674,6 @@
 				<Provider>KDG</Provider>
 			</Item>
 			<File>WDR HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="WDR Köln" />
-			<File>WDR Koeln.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="WDR Münster" />
-			<File>WDR Muenster.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="WDR Siegen" />
-			<File>WDR Siegen.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="WDR Wuppertal" />
-			<File>WDR Wuppertal.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Welt der Wunder" />
