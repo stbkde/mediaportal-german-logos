@@ -391,7 +391,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="Comedy Central/VIVA" />
-			<Item Name="Comedy Central/VIVA AT" />
 			<Item Name="VIVA/COMEDY CENTRAL">
 				<Provider>KabelBW</Provider>
 			</Item>
@@ -1552,7 +1551,7 @@
 			<Item Name="Pro7">
 				<Provider>KabelBW</Provider>
 			</Item>
-			<File>ProSieben.png</File>
+			<File>Pro7.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ProSieben Austria" />
@@ -1564,40 +1563,40 @@
 		</Channel>
 		<Channel>
 			<Item Name="ProSieben Schweiz" />
-			<File>ProSieben Schweiz.png</File>
+			<File>Pro7 Schweiz.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ProSieben HD" />
 			<Item Name="Pro7 HD">
 				<Provider>KabelBW</Provider>
 			</Item>
-			<File>ProSieben HD.png</File>
+			<File>Pro7 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Pro7 FUN" />
 			<Item Name="ProSieben FUN" />
-			<File>ProSieben FUN.png</File>
+			<File>Pro7 FUN.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Pro7 FUN HD" />
 			<Item Name="ProSieben FUN HD" />
-			<File>ProSieben FUN HD.png</File>
+			<File>Pro7 FUN HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ProSieben Maxx" />
 			<Item Name="Pro7 MAXX">
 				<Provider>KabelBW</Provider>
 			</Item>
-			<File>ProSieben Maxx.png</File>
+			<File>Pro7 Maxx.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Pro7 MAXX Austria" />
-			<File>Austria/ProSieben Maxx Austria.png</File>
+			<File>Austria/Pro7 Maxx Austria.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ProSieben Maxx HD" />
 			<Item Name="Pro7 Maxx HD" />
-			<File>ProSieben Maxx HD.png</File>
+			<File>Pro7 Maxx HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="puls 4" />
