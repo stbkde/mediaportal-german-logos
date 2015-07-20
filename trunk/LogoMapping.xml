@@ -516,6 +516,9 @@
 			<Item Name="Disney HD">
 				<Provider>KabelBW</Provider>
 			</Item>
+			<Item Name="Disney Ch. HD">
+				<Provider>KDG</Provider>
+			</Item>
 			<File>Disney Channel HD.png</File>
 		</Channel>
 		<Channel>
