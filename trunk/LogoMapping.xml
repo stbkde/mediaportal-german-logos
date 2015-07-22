@@ -209,37 +209,12 @@
 			<File>BN Sat (scr).png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BR-Fernsehen" />
-			<File>BR-Fernsehen.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="BR HD" />
-			<Item Name="BR NORD HD" />
-			<Item Name="BR SÜD HD" />
-			<Item Name="BR-Fernsehen HD" />
-			<Item Name="Bayerisches Fernsehen Süd HD">
-				<Provider>KDG</Provider>
-			</Item>
-			<File>BR HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="BR-alpha" />
-			<Item Name="BR-alpha_" />
-			<File>BR-alpha.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Bahn TV" />
 			<File>Bahn TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Basketball NBA" />
 			<File>Basketball NBA.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Bayerisches FS" />
-			<Item Name="Bayerisches FS Nord" />
-			<Item Name="Bayerisches FS Süd" />
-			<File>Bayerisches FS.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Beate-Uhse.TV" />
@@ -311,15 +286,35 @@
 			<File>Boomerang HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Bayerisches FS" />
+			<Item Name="Bayerisches FS Nord" />
+			<Item Name="Bayerisches FS Süd" />
+			<File>Bayerisches FS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BR-Fernsehen" />
+			<File>BR-Fernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BR HD" />
+			<Item Name="BR NORD HD" />
+			<Item Name="BR SÜD HD" />
+			<Item Name="BR-Fernsehen HD" />
+			<Item Name="Bayerisches Fernsehen Süd HD">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>BR HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BTV" />
+			<File>BTV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Bundesliga" />
 			<Item Name="BL Konferenz" />
 			<Item Name="2. Liga Konf." />
 			<Item Name="2. Liga" />
 			<File>Bundesliga.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="BTV" />
-			<File>BTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="CCTV NEWS" />
@@ -1675,6 +1670,12 @@
 			<File>RBB HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RENNSTEIG TV">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>Rennsteig TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Regio TV" />
 			<File>Regio TV.png</File>
 		</Channel>
@@ -1821,6 +1822,12 @@
 			<Item Name="RT DOC" />
 			<Item Name="RT Doc HD" />
 			<File>RTDoc.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SALVE TV">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>SalveTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Samanyolu TV" />
@@ -2318,6 +2325,12 @@
 			<File>SR Fernsehen.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="SRF">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>SRF.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="SRF 1" />
 			<File>SRF 1.png</File>
 		</Channel>
@@ -2535,6 +2548,12 @@
 		<Channel>
 			<Item Name="TVEi (span)" />
 			<File>TVEi (span).png</File>
+		</Channel>
+		<Channel>
+			<Item Name="tv.altenburg">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>TV Altenburg.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="tv.B" />
